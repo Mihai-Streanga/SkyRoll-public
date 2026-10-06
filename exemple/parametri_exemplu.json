@@ -1,0 +1,14 @@
+[
+  {"nume": "Cota CAS angajat", "valoare": 0.25, "de_la": "2018-01-01", "pana_la": null,
+   "sursa": "Romanian Fiscal Code, art. 138"},
+  {"nume": "Cota CASS angajat", "valoare": 0.10, "de_la": "2018-01-01", "pana_la": null,
+   "sursa": "Romanian Fiscal Code, art. 156"},
+  {"nume": "Cota impozit venit", "valoare": 0.10, "de_la": "2018-01-01", "pana_la": null,
+   "sursa": "Romanian Fiscal Code, art. 64"},
+  {"nume": "Cota CAM angajator", "valoare": 0.0225, "de_la": "2018-01-01", "pana_la": null,
+   "sursa": "Romanian Fiscal Code, art. 220^3 (listed to show the store; not used by the demo)"},
+  {"nume": "Spor ore suplimentare", "valoare": 0.75, "de_la": "2003-03-01", "pana_la": null,
+   "sursa": "Romanian Labour Code, art. 123: overtime premium of at least 75%"},
+  {"nume": "Valoare tichet masa", "valoare": 30, "de_la": "2026-01-01", "pana_la": null,
+   "sursa": "illustrative value; the real one is an employer's choice under the legal cap"}
+]

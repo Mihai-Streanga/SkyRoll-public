@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# Demo output: generated on every run, never committed
+demo_output/
+
+# Spreadsheets and documents: a real payroll statement must never reach this repository
+*.xls
+*.xlsx
+*.xlsm
+*.xlsb
+*.csv
+*.ods
+*.pdf
+date/
+
+# Temporary files and local secrets
+tmp-*
+*.tmp
+.env
