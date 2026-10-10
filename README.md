@@ -1,5 +1,7 @@
 # SkyRoll — payroll verification, catalog-driven
 
+[![tests](https://github.com/Mihai-Streanga/SkyRoll-public/actions/workflows/tests.yml/badge.svg)](https://github.com/Mihai-Streanga/SkyRoll-public/actions/workflows/tests.yml)
+
 SkyRoll prepares, checks and refines a monthly payroll. It takes over the mechanical,
 repetitive checking of a payroll statement and leaves the decisions, and the responsibility,
 with the payroll specialist. It does not replace the specialist, and it does not replace the
@@ -139,6 +141,10 @@ method grew out of it: deciding verification area by area, and six of the twenty
 patterns in the method's catalogue, among them independent recalculation, numbered guards that
 stop a run and counterfactual reconciliation. How the collaboration is organised day to day is
 described in [docs/WORKING_WITH_AI.md](docs/WORKING_WITH_AI.md).
+
+The history here is short because this repository is a showcase: the demo engine was written for
+it, and the product stays in a private repository with its full history: 333 commits, from June to
+October 2026 (read on 10 October 2026).
 
 ## License
 
